@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luangustavofilipov&show_icons=true&theme=dracula) 
 
-[![Painel](https://github-readme-stats.vercel.app/api/top-langs/?username=luangustavofilipov&theme=blue-green)]() 
+[![Painel](https://github-readme-stats.vercel.app/api/top-langs/?username=luangustavofilipov&theme=dracula)]() 
 
 
 ## Tecnologias do meu dia a dia 🔨
